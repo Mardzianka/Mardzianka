@@ -13,6 +13,5 @@
 
 #### I`m open to apprenticeship.
 #### Connect with me via LinkedIn  <https://www.linkedin.com/in/marzena-banczyk-290b03323/>
-
-![image](https://github.com/user-attachments/assets/b4b9ea00-a28f-4bad-9a52-cbc9a8055232)![image](https://github.com/user-attachments/assets/d724479b-22af-4219-b78d-03a5de752a85)
+![logoCS](https://github.com/user-attachments/assets/807ac32e-3a7c-416d-aa5c-70d048a9252d)
 
