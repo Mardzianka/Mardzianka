@@ -12,6 +12,6 @@
 #### I am eager to connect with like-minded professionals in the cyber security space, I’m keen to grow my network of both peers and mentors. Being new to this space I am excited to continue to expand my knowledge, share insights, and contribute to a safer digital landscape.
 
 #### I`m open to apprenticeship.
-#### Connect with me via LinkedIn  <https://www.linkedin.com/in/marzena-banczyk-290b03323/>
+#### Connect with me via LinkedIn  <https:/>www.linkedin.com/in/marzena2025>
 ![logoCS](https://github.com/user-attachments/assets/807ac32e-3a7c-416d-aa5c-70d048a9252d)
 
